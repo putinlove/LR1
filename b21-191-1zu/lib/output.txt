@@ -1,0 +1,27 @@
+[TEST SET] ¹1
+Incorrect number
+Incorrect number
+Incorrect number
+Incorrect number
+Incorrect number
+Incorrect number
+1e+20
+Should be: 1e+20
+-----------------------------------------
+[TEST SET] ¹2
+98766.1
+Should be: 98766.1
+-----------------------------------------
+[TEST SET] ¹3
+6.223e+30
+Should be: 6.223e+30
+-----------------------------------------
+[TEST SET] ¹4
+Incorrect number
+1.23423e+31
+Should be: 1.23423e+31
+-----------------------------------------
+[TEST SET] ¹5
+-inf
+Should be: -6.80565e+38
+-----------------------------------------
